@@ -1,6 +1,6 @@
 # myPropertyAdvocate
 
-This tool is designed to analyze property listing data and identify good investment opportunities. \
+This tool is designed to analyse property listing data and identify good investment opportunities. \
 **This project is still very early stages of development.**
 
 ## Introduction
